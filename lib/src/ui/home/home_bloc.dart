@@ -1,5 +1,5 @@
 import 'package:base_flutter_app/src/data/model/product.dart';
-import 'package:base_flutter_app/src/data/resource/repository.dart';
+import 'package:base_flutter_app/src/data/source/repository.dart';
 import 'package:rxdart/rxdart.dart';
 
 class HomeBloc {
